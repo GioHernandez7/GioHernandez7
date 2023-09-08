@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Giovanni Hernandez
+- 👀 I’m interested in Coding Video games and sports
+- 🌱 I’m currently learning python
+- 📫 How to reach me giohern452@gmail.com
